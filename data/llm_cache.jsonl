@@ -82,3 +82,462 @@
 {"k": "a8961bcf982cb663f9878e84b58ec767", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
 {"k": "ad6735cf0a9c1545c403248bd258b6d2", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
 {"k": "a5272c9d03cc30053190f8252e60ca57", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "ba0325a531574c8c6fd39d0808d96918", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "5c585cfa48eea4421027e2904d7b9b0e", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "9d2af1817aae2cdb4d7187e42f39d947", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "5ab984a65258a915a65cc62a4b9eb446", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "119d0601e02e6475b22105a7619e397f", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "e21aeab1d42183bf468b869a19b99e8e", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "489bf50a69ce5e6137fab2a2bc96d107", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "d9b1f19248c5cd28a8b86a9898acd0b8", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "5fa312e90df515c0a5c45de89070ebc2", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "b111d18a1fa38750da2962c40a2840ca", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "04a3bf7602fcd40c0299501cebb1e5db", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "c9413720b612fe5fc3360e243c2c6b59", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "65600959b32389b6104259de112335dd", "v": {"pain": true, "problem": "Recurring administrative tasks like onboarding, invoicing, compliance, insurance, contracts, and payment/session tracking consume excessive time and hinder business growth.", "workaround": "Using No-Code platforms (e.g., Make.com/N8N) to automate workflows.", "tools": ["Make.com/N8N"], "role": "Mobile PT freelancer", "money": false, "severity": 3}}
+{"k": "67bdc4362df56bbcf461d544f32280c6", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "1ed38914019d9d1d78f7ce6e7dfe5431", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "0405f573e757d7e121dc781eb1fa4f0c", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "9ccb79798bb6e05a2bd47b41c5238283", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "89de2650b424cc9ba7e9c05e81f75215", "v": {"pain": true, "problem": "Mindbody's recurring cost increases, forced marketplace commission, and unreliable software negatively impact revenue and operations", "workaround": null, "tools": ["Mindbody"], "role": "Studio owner", "money": true, "severity": 4}}
+{"k": "8bc3bc510ac0bf57fefa327abe4dbfc1", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "7224f7f48a282395324ce30f39d1e681", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "e8dd665373aa9ccb2b9ed8e8861cb344", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "89ac39e310449d1f9eb1cacf00a56a70", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "ce111e86f7be12969e4fa9e3d8dcfec6", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "0bf67369381950bde99390a14f129d96", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "f04569564a773e308817badd9b9fe7a6", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "99b041bad86f0b8f09c3d3d50e988440", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "7a837d980b11bc3dd70b1a5a0ea0a21c", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "1d955c3af16675c69c695baaa7f95463", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "e2d0af4ace322cf406bb87029895f6fe", "v": {"pain": true, "problem": "declining gym attendance leading to lost revenue", "workaround": null, "tools": [], "role": "personal trainer and gym owner", "money": true, "severity": 3}}
+{"k": "740f97d63777d537624eef2ceb935838", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "8137efa63ea4d423563490bb8ecb749d", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "078457cd8a4c631fab4cf25bde75a257", "v": {"pain": true, "problem": "Gym software (Mindbody) causes member complaints due to poor app navigation and unreliable billing features", "workaround": "The box owner is set on using Mindbody despite its issues", "tools": ["Mindbody"], "role": "gym owner", "money": false, "severity": 3}}
+{"k": "65318ee733a6ad39b542d48894031e06", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "652cdba8a4e13da25d8e06e809646f19", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "dd9352ed44a9aad64cb2b2a208ffefad", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "e8fa1ae729ab6bfb4d66ec81c631641e", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "5cec877ba9bb67b0381026a0e662923f", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "25058d0d35c39a173e8661ec5e245c28", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "9bef056587676d95917f9a6b50fc6bd7", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "a1a5e970392c29b477043317ee6e855d", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "5354173ec544bfd8d703a876a4b38acb", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "daf4a8355455797e3977d6360bfbb051", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "9f567074cbb23b45dcc159d7d7d1c78f", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "b132f35dc7d8490c1425cd437b80471c", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "fd4900d83eafcd9297cdced80dc29695", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "58cda2e4bbe3db523fb3a88582f93206", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "274ef4899513b9e33ff283b15496632d", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "79dc4062fba75285edbbea06e95a8f29", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "904dfe0b1c513c949343948e7ca75f6f", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "6ce2a49d08715d3d24b530a40d8d0f9e", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "bee027f95df4834c49f3aa7c5de031a8", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "94f7a2f1e07c49ab081a1f62b0b1dfb7", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "93a6d98d61f555ea8a3f773873bcf52e", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "0821bb2d94a76a41d6ee5e87f8038587", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "ddbb4ef66c6ee05a8415d71ff1f5ea97", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "98cc4c2367264168673424bb32f70913", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "af19acac8423cd82737bf189f22fe44d", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "8b0088b41009db5913438b05a54cceba", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "2caeb4adc42521f105bb340e766871f7", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "3780c8161a1bdaebdd4c7438fa8c0716", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "7dec7136d9ec404544d47f68b3887f5e", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "1fae788b8cd544c04529e95dee89479e", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "a559b821eb8a3b65a2ac70b530c56f5a", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "f799cc5772ddc945bb782a5933ff4dd8", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "dcbbdc57f59b9b1bef3d9f0323bf58c8", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "df299cf608364ec880a41602c12dd915", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "16ae8d6edcd928b632bd25bedab68d76", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "ec9085cd5fa83947095d979e8e7ef84a", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "7ca652537263d97ab7b8e764b7c736f2", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "4d39517bfccd7a0b7af2bc49286f8762", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "983f5e70ba904d96b834c80a94c057b1", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "a6ca33ae6de9f3797af6a1b171f59ccd", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "237842a2216b2c61d5403dffa1bcea39", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "dbc4ba8ff4b047db2857485bdef266f0", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "577ae5db4fc8f9d071e4e49a5c1dd352", "v": {"pain": true, "problem": "Struggling to acquire new clients despite relying on word-of-mouth and ineffective social media/paid ad campaigns", "workaround": "Dependence on word-of-mouth referrals", "tools": ["social media", "paid ads", "Thumbtack"], "role": "Personal trainer", "money": true, "severity": 3}}
+{"k": "b737de6887d925080035b24b7ab39a7a", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "a758430691dcad7bfd3be33bfd522734", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "37d5a762091ff76e1f5394be8c9aa0c3", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "ee885958288d645735d321911cf2d022", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "01b0cc0850d66eb1fc8a3feff20ee01e", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "9b74885b8c76aa20f2769fdd332cd881", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "bf02dee030c4695d2901c787976ff1d1", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "cb3397686dd9d7caaa350756f677c9be", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "2c024c42171cb02ad31a6a294fc2c18b", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "856b2344ea2476cfe4a9cf5c79be95ec", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "2f79a914aabb613b068faf209cda67f1", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "fb05d34ee0a51cd29b921f853a77ab77", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "cb2a02c9a2a56af3e4985a21b1b692c7", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "04796c43707e23858e05ae5b77227641", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "6d8311796849f4cd0183a9fab72c2c31", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "6063a79e660fd1c2972cfe9a48098995", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "73258e0dd3ba2f26462c4de7acfaa4ad", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "2faec9eafec7dcf718f3f71535242b8f", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "7f56dde85477066d2e4920d55d1f5d2d", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "49dfa6fdbadcdce6b0e8f49f1e5e1195", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "2f6b0c4af09d2cd83e3fff731a37dab9", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "074e6e551dc4ace1b092c1d92049c8d1", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "d0c497d0a46ea5b1a2460c7959bbea7a", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "aec20580661207b43fac5382ddd0849c", "v": {"pain": true, "problem": "Manual, time-consuming tasks like responding to member inquiries, chasing payments, scheduling classes, and managing payroll are causing burnout and member attrition.", "workaround": "Handling all tasks manually, including personal responses to DMs, spreadsheet-based scheduling, and manual payroll calculations.", "tools": [], "role": "Gym owner", "money": false, "severity": 4}}
+{"k": "038e8626a300b6a97e5f9e3664080667", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "8d7d89d0091c77947117a254a29e83f6", "v": {"pain": true, "problem": "Mindbody's recurring software glitches cause significant time spent on support and client billing errors.", "workaround": "Contacting support and manually handling client bookings over the phone", "tools": ["Mindbody"], "role": null, "money": false, "severity": 4}}
+{"k": "18490e4a4db6473c8e33d0f04b6f5e89", "v": {"pain": true, "problem": "Need to maintain operational continuity during platform outages without losing customer trust or revenue", "workaround": "Use printed rosters, manual check-in logs, and pre-written outage notifications to members", "tools": ["Mindbody"], "role": null, "money": false, "severity": 3}}
+{"k": "d06e877c08d1614cf5195835eb51aca3", "v": {"pain": true, "problem": "Re-entering all members' payment information manually when switching to a new platform that uses a different payment processor", "workaround": "Asking the new platform whether they can token-migrate existing cards before committing", "tools": ["Mindbody"], "role": "gym owner", "money": false, "severity": 3}}
+{"k": "ebbec88a8a69197532035e64f82ac9e4", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "eae587318b076c9c055c9134a3a1769f", "v": {"pain": true, "problem": "Manually exporting data from Mindbody to Brevo due to lack of integration", "workaround": "Manually exporting data over there from Mindbody", "tools": ["Brevo", "Mindbody"], "role": null, "money": false, "severity": 2}}
+{"k": "279c636a2d5a7dc1f2d903b01b00d1e8", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "daacc42dbdd327d5a895dc930596d350", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "a346e54016d71025d97d84b0c9fe0774", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "45156096b5060afc8b65cab68ce47b24", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "2a0b2357985b83ae1fa919ab2651323b", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "fafbe6eebfa295ab6d4178601ac4cfb5", "v": {"pain": true, "problem": "Reconciling multiple payment methods (Venmo, Cash App, cash) with gym software without manual entry", "workaround": null, "tools": ["recess.tv"], "role": "gym owner", "money": false, "severity": 3}}
+{"k": "c3331b2227dbf0b9da45a3e5ce7c7e2b", "v": {"pain": true, "problem": "Post-acquisition decline in support quality and product direction misalignment with independent operator needs", "workaround": null, "tools": ["Glofox", "Mindbody"], "role": "Independent operator", "money": false, "severity": 3}}
+{"k": "c910b2a63b93ab84c5a846bd16160bbe", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "a9addcca84303de6677b2f3342fee5cf", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "e28f28386812bf40babe70def01e633f", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "9a731265c39077e2e55c61c80fb49371", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "07f1562da46e715319821ff38d15c00f", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "b52cf38d6ddb4d229724615467a9268e", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "6aaa99e194b1f8ee7da20eb8b9834640", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "af236b4bddc84ea8d9af8ba4d86b7fe7", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "e5b12219bdbe5321d0eb4cf27aa18451", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "0b2b22920b05acaf5a00aa3fcfc62116", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "8cc64b36c59f867b1aa535d2b16f192a", "v": {"pain": true, "problem": "Difficulty transferring data from Mindbody to Walla and discrepancies in reporting/accounting numbers", "workaround": null, "tools": ["Mindbody", "Walla"], "role": null, "money": false, "severity": 3}}
+{"k": "b491dc5b961586208e86f5fde96687de", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "f74dca51e6ff4b11fb15ae23c6bbf55b", "v": {"pain": true, "problem": "High pricing and clunky backend of Mindbody are becoming unsustainable for a small Pilates studio's operations", "workaround": "Switched to Time2book after evaluating multiple platforms", "tools": ["Mindbody", "Time2book"], "role": "Pilates studio owner", "money": false, "severity": 3}}
+{"k": "7d2fd1f35ed45fba38b2c0a1356f566c", "v": {"pain": true, "problem": "ClassPass does not properly sync with our booking system, requiring manual monitoring of emails to prevent double bookings.", "workaround": "Manually monitoring emails to ensure no double bookings occur.", "tools": ["ClassPass", "Vagaro"], "role": "small wellness center owner", "money": false, "severity": 3}}
+{"k": "07d4abc81b6564187208d6c3c50f78d7", "v": {"pain": true, "problem": "Recurring issues with Mindbody's widgets causing billing errors and client dissatisfaction", "workaround": "Downgrading to the lowest tier and migrating to Walla", "tools": ["Mindbody", "Walla"], "role": "Business owner", "money": true, "severity": 4}}
+{"k": "c43970440d2b001bf04c64e3259c393b", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "8f37282ff00f513bd0bd1a264fcf688d", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "72d679ed98523fd1c7f870b38c6d8946", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "e35139054edac67b22cd21e14e1ba5d2", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "0b8ad743bef61aa7b6c9d6ddf1f6742a", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "0ad59e50101dec494d35f70bf739ca42", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "1882ebee91c7d88917f782ee9f19e5ef", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "36c3332271926351c7a7292146767512", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "b530913d876a4202a977ec5315818428", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "25e5fddf885af7e6ae693e39e8ef4768", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "da4d62f24c6d531ec92de891e0435143", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "962a2b5d0d698bd918e2457c41ad5ca4", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "92144c446b55646d72ccddaaa168e71e", "v": {"pain": true, "problem": "Integration failures between third-party systems (membership management, Ezypay, and mobile app) cause uncertainty about payment status and require manual workarounds.", "workaround": "Relying on Excel reports and email communication to resolve payment disputes and member complaints.", "tools": ["Ezypay", "Polish membership management system", "German mobile app"], "role": "Franchise owner", "money": false, "severity": 4}}
+{"k": "5a073e981479a1d57ddac3c923525f37", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "6c7122db1e84d43ec0c351a83ab6a66f", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "0a8a224b0af44e887db47d387fe203ca", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "9a21af6ebf65fbcc4a7bfbcdfc07353b", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "52235b2b348c76d65d5f13f8b7b755a9", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "44d2829e157dae168846cdc7ed2a4fcd", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "2396d35f619d8d727945b56ea4eeb186", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "49af369f6b963965e7f6113b2dc0a418", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "155cc003906f173acf470960783d1a32", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "074b9b19cfce2c57517300496e023d17", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "b0d7d8da43a07f2056b22f30abd851d9", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "5b2d02bbcdd11d7c97f35e652d7460cc", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "4cf506563d5ca4c54fd724fad0afcfda", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "8430861a5dfb114e08f6b7b4df365ee9", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "bd6b38d8a2c0d0a3f8231710fad151d9", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "d1910338f09ca2856489d8c9e2de4459", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "c947d13fd546ee6ac7388f94347fc59d", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "353d7fb9576cbcf57d1fa0e4616dc7f1", "v": {"pain": true, "problem": "Instagram is no longer effective for generating in-person client leads.", "workaround": "Relying on referrals, website traffic, and people coming from the gym.", "tools": ["website"], "role": "personal trainer", "money": false, "severity": 3}}
+{"k": "88dca76ac7ddccfbe21b542725001671", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "1e61905eedf46e177880964ccd10822b", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "c36b549a529f2c8710eedd8a5d104613", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "1a3ad4a4fa6adea9e56e06d5f989c3c3", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "deaa73e824471ea698803aa57571ebe3", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "b381b2b2e1af948d819a7a5a2040ea99", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "ac99abc844dd6b934726a2539ea40d6f", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "b64f098d8f954665727c7f08145b20bf", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "c227ff0bd10931f0b112950462ecde8b", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "7300460293428fa49a6de2b7b96b80ed", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "de26ade38ded6bf431719a505176ad4e", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "192033b6416fee31d00f4da8941b2857", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "cae1db99d4ea55d9432c3a3a1f6d6929", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "1a99587d3cf67556d289467b73365617", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "e742b9b1dd5645256778a363b80314ce", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "2d91b4691c168c58427cba633fc9daa6", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "5fa5fbe15f0240f914420c1f5d02ceb9", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "6ce71c12037538a7de691a115dbb9ff6", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "03e83c41dca38a4aa0c8a29a399f0f4d", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "8c4e16403eed81ea5f96d1caa2979ee3", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "4611485f1478627eafe0f01e96356217", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "fed9c54358d5d21cb1763333d1c83186", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "c0f45b0eeaa018112d501a2530593c96", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "1ca37541aa32d242276d3400118407e9", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "354700ce6ed2861ef9cbb64b7b279bde", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "db36900d39884a8acbdeffcf2de6c337", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "71ad175227da96cf0881d33e372a6634", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "03e212b3430553140a71ca5335042a24", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "579aa13de596adad3e56865c61dc59ba", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "f88baad303dce3411c800cc11d647925", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "271ddeb4c9b7c3db2b9dc97e2833a6a1", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "6cefcbe801ef3a1478b0ec6b4b4f427d", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "facc64e3a026b34a57f201ce60995070", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "b669b5c78a9cef6dda0bbe2c1c1182b6", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "6f6e7ad1d3201ab3fb8b0215f9a4a170", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "fb77898e79ed4277598a095d05d45507", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "172d9a491a25b214252eaba07e5a78cd", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "2d5b74866b4e175f60573b3174b2187d", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "890fdcc195c612235db06dc0c0475e93", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "0ca53f6e4f50171c27d2732e4eb4b8d3", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "aaad6033634ab227375358b3b7fc4209", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "618e2b442b8e44a5ae7ebcf587148d14", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "6e1b7c956a63d33be91e859804927795", "v": {"pain": true, "problem": "Handling recurring memberships and client payment info during migration from Mindbody to another platform without causing double charges or data loss", "workaround": "Plan to cancel/delete memberships in Mindbody after migration but unsure if stored payment info will be automatically removed", "tools": ["Mindbody"], "role": null, "money": false, "severity": 3}}
+{"k": "7f29356969f11e3792748163eaa4f19e", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "e90bf4dfba7461e5cc2351456f65d2c1", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "3f7e065181bd7cc20db9aecfcb27fcb5", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "f2d9a25ab507dafdbc028a079f883af7", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "b405ce0ba98c32b5c74c2311edb89d9a", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "0c4b8e96c706bc061de351da12c50449", "v": {"pain": true, "problem": "Members damaging gym equipment and floor by slamming weights, leading to recurring costs and disruptions.", "workaround": "Charging $20 rerack fees, using crash pads, and enforcing rules through warnings or ejection.", "tools": ["T-Bar row", "land mine attachments", "crash pads"], "role": "Gym owner", "money": true, "severity": 3}}
+{"k": "4674e0561c5c8bdc477e675fb81febee", "v": {"pain": true, "problem": "Manual admin tasks like onboarding, invoicing, compliance, insurance, contracts, and payment/session tracking consume excessive time and hinder business growth.", "workaround": "Using No-Code platforms (e.g., Make.com/N8N) to automate workflows and reduce manual labor.", "tools": ["Make.com/N8N"], "role": "Mobile PT freelancer", "money": false, "severity": 3}}
+{"k": "e79ab36b24ac05628e8841ce11513e69", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "4d08b0f9243a7115285e199d15efa1fb", "v": {"pain": true, "problem": "Mindbody's recurring price increases, forced revenue sharing for client bookings via their app, and outdated software causing operational disruptions", "workaround": null, "tools": ["Mindbody"], "role": "Studio owner", "money": true, "severity": 4}}
+{"k": "af6d7d602fdade8490592e4a58e5ef06", "v": {"pain": true, "problem": "Mindbody's high pricing and clunky interface are causing excessive time spent on software management rather than focusing on members.", "workaround": null, "tools": ["Mindbody"], "role": "studio owner", "money": true, "severity": 3}}
+{"k": "01a05c221ce8d5051b21876974d342dd", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "752c4773b68454fe48aef58954a898d2", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "6e62e553d0bc80769d842d50360237ca", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "95a273eb4b57f20ac1f504c48e427754", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "d8a301744a7e2926821912091f8bf040", "v": {"pain": true, "problem": "Pricing increases and poor reporting from current platform are causing recurring workflow burdens", "workaround": "Migrating to newer platforms with branded member apps that members actually use", "tools": ["Momence", "Glofox"], "role": null, "money": true, "severity": 4}}
+{"k": "48c41bd8d0b2caf4b6b182c21c8a7203", "v": {"pain": true, "problem": "Paying a $500 fee to transfer card details during migration from Mindbody to Vibefam", "workaround": "Making students re-enter their card details instead of paying the fee", "tools": ["Mindbody", "Vibefam"], "role": "Studio owner", "money": true, "severity": 3}}
+{"k": "1254b4ab8cabdc64eda1f735a576d292", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "d5c54ea2af9941cd9ce66e7c60f0863d", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "4883fe9d864d8f6110dedf6f3782ac76", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "4ce9756e1398e5b06fe8ff6a758cef6c", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "24c631aa6ce5bc4bca0fb90c9d589d02", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "147bddfbc4245797fbabd6dd2a79c3c7", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "b545a7d1ae81d9277d73609b30c82513", "v": {"pain": true, "problem": "Declining gym attendance is reducing client numbers and threatening business stability", "workaround": null, "tools": ["Olympic barbells", "kettlebells", "dumbbells", "plyo boxes"], "role": "Personal trainer and gym owner", "money": false, "severity": 4}}
+{"k": "c7f8cd178e48b327f0ef6c2d12a6d634", "v": {"pain": true, "problem": "Current gym CRM (Mindbody) is causing member complaints due to poor app usability and unreliable billing features", "workaround": "Box owner insists on continuing with Mindbody despite issues", "tools": ["Mindbody"], "role": "Gym owner", "money": false, "severity": 3}}
+{"k": "fad954d846db77953a90254c74fafc4e", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "10396921979195f0f9baf939b91b5d30", "v": {"pain": true, "problem": "Yoga instructors' classes are being cut due to the studio's focus on more popular sculpt classes.", "workaround": null, "tools": [], "role": "yoga instructor", "money": false, "severity": 3}}
+{"k": "628f7490d6b8eb80222821b4da9b6730", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "b7c3b61e3563bc044331747b1dca94cd", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "f4a53b2d6d07b17ed01e751f47b633e9", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "deca013e069024830d1e6ec6c0a070c0", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "c5396cf515aed7362d2655698530c5cb", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "ed2ed0a54f9127a7f9159ae83dfdc97a", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "21cf04ea1dd1dbd3bae83aa84af56cd5", "v": {"pain": true, "problem": "Clients demand data-driven proof of training effectiveness, but the trainer lacks tools to provide concrete evidence beyond subjective observations.", "workaround": "Explaining muscle engagement, form cues, and relying on clients' subjective feeling of progress over time.", "tools": [], "role": "Personal trainer", "money": false, "severity": 3}}
+{"k": "84de11b7c4f145e31d41b06c8320681c", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "d6a99b445806f8041dcc4ac01c177a85", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "d6454184cfce7688bf422e1cadaa3fa1", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "70a12aefc257bf5e91b34a58fb6e7ad2", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "99990ed51969a74573d8e5c59131c792", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "9d035745e9eb04e387b5b4afd5594997", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "e550d0c3bd7c712348d13c00a8a1be5a", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "4e244be5f090032c62f18c2050b09a98", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "81b15b2fcd8e843af04011c24349e87d", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "2c33a7b1b863e54b586182d57f29231d", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "7deb76e3e710947d34368a4e19557945", "v": {"pain": true, "problem": "High commercial rent and lack of profitability are causing financial strain and uncertainty about the studio's viability.", "workaround": "Dogsitting on the side for grocery money", "tools": [], "role": "Yoga studio owner", "money": true, "severity": 4}}
+{"k": "ee458c2fb494e69bd3219c5e6ee67925", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "d8f8d80d63c0cb997b019815b72b9172", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "3c1d5225dbecb1d0b8de2d5ac192bcbb", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "0043b475c5749b43e368aeb8e6673b0a", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "9f0caf604c92243e1fda91548e6c7bf6", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "96586ee4d45ffe6bc3c4625ad18de2e8", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "bcb59d2c9fdfc40cc16d4302a9e57964", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "ec22b263e63988bb0408fb7d0f2b460a", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "2b7ec9e075b14e3f9c371000b4921a6c", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "0c8b5052696b94abb1d658c8fecebd17", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "8e785571862786284b413064c84ec1bd", "v": {"pain": true, "problem": "Low class attendance due to inconvenient timing, location, and limited online visibility.", "workaround": "Studio pays a flat rate regardless of attendance, reducing income pressure.", "tools": [], "role": "Yoga instructor", "money": false, "severity": 3}}
+{"k": "7a411f28f7a79aedd635aea614755660", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "5da48cdf83e30de542b0258e510ccbdc", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "f11553bd14bc98119b8b3fd4045c334c", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "2b2e04f3316235cf1e2a54657276f115", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "c227456ce2a9a22020fc73e3f7183303", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "2ed640bfd132bfb26a7effe8fedfcd5f", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "c3d8c7b687d9b3cfda6403bf2e832d3e", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "03b8ef7cd7b543d54912a86a144219cc", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "da56df11277efe80c43432aa7978bb57", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "7da77f93d38c91b3a6ef1cc92cdcfcec", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "aceeeb54d2ce4f31cea519cb910e18ca", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "3755ef27fb71885113c187536385e4a5", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "36a80cf2a4dd7145cc40ec82599ae1d9", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "9e50f011e03b631864106b04f76128c8", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "d172c67db6fb69411e55d914f0248610", "v": {"pain": true, "problem": "Difficulty acquiring new clients despite relying on word-of-mouth and failed attempts with social media, paid ads, and Thumbtack.", "workaround": "Relying on word-of-mouth referrals as the primary method for client acquisition.", "tools": ["Thumbtack", "social media", "paid ads"], "role": "Personal trainer", "money": true, "severity": 3}}
+{"k": "de54aaed94219fed15061d469549bec8", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "4a5fcb41c66c5ed7d7304728e117e201", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "7ac7fe6a3e6a965aa2ff8ac2b41ec095", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "e5345cae04bfca94bcbb1949ad28f1ca", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "71c2886d6fcdd69689ee790d4161b66d", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "34addecac710e7d4a0b376539d2bbe35", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "5979d843715ac3dad2a9d0a3bdb4bf3c", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "219b9142cc6f3e8e6e9702a17e794204", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "174fdccd2a8c0db0ba5e9940906d9546", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "ec33d1b578e9fb95dfa6cacd62a2f086", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "6acdb147cdd61713ee4d55ed788955ff", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "ad4a130f763671d78a0eb06a0d110360", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "61bc4393a51021afbcb4c3e521d1157c", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "d4ecac3694ebdb9a64e1d2679a0007eb", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "e1c89c77eb8283619314568c1173b164", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "fda722bda00c9f7a2725c721f6b403c3", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "0eeaa0cd05cc1385bfe929747a3fb09d", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "6d28de8b4538e9fc0e4403fd359b4f6f", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "266c2c0de687ae90a3276cea2e694b43", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "6a529a439071b485d3f73cf033c70d7f", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "9bd9c3b6c7e8839d573023e591a88ce1", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "aa78009896cdf9aa95c7fa84587730ef", "v": {"pain": true, "problem": "Manual handling of waitlists and email campaigns for no-shows and promotions is time-consuming and inefficient", "workaround": "Staff manually manage waitlists and send emails for coupons/specials", "tools": [], "role": null, "money": false, "severity": 2}}
+{"k": "06320aaf50cb1eff189901ca0bb4b441", "v": {"pain": true, "problem": "Switching from Mindbody to Walla is causing significant workflow burdens due to transfer difficulties and inaccurate reporting/accounting in Walla", "workaround": null, "tools": ["Mindbody", "Walla"], "role": null, "money": false, "severity": 3}}
+{"k": "aac7d71b9af043ea68a039ba61199186", "v": {"pain": true, "problem": "Manual handling of member communications, payment tracking, scheduling, and payroll is consuming excessive time and leading to declining membership.", "workaround": "Manually responding to DMs, chasing payments, managing spreadsheets for schedules, sending check-ins, following up on trials, and calculating payroll by hand.", "tools": ["spreadsheet software (for scheduling and payroll)"], "role": "gym owner", "money": false, "severity": 3}}
+{"k": "a7b92cca9ab1c46848b3d407ddefd96a", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "d96cd03a34fb49caf6ba9af96b9fb5d1", "v": {"pain": true, "problem": "Mindbody's backend is clunky and its pricing/fees are hard to justify for a small Pilates studio", "workaround": "Conducted demo calls with multiple platforms (Momence, Glofox, Arketa, Time2book) to evaluate alternatives", "tools": ["Mindbody", "Time2book", "Momence", "Glofox", "Arketa"], "role": "Small Pilates studio owner", "money": true, "severity": 3}}
+{"k": "23ba23e03baa3d8b1c8a0d6df6ed3cb0", "v": {"pain": true, "problem": "Mindbody's recurring software glitches cause significant time loss, incorrect client charges, and scheduling failures that require manual client communication and phone support.", "workaround": "Switching to a new software and pre-scheduling a downgrade, but the current system remains in use until 2026.", "tools": ["Mindbody"], "role": null, "money": true, "severity": 4}}
+{"k": "7a2ef58753452b178147fd61c5e9b361", "v": {"pain": true, "problem": "Re-entering member payment information manually when migrating to a new platform that uses a different payment processor", "workaround": "Ask the new platform if they can token-migrate existing cards before committing", "tools": ["Gymdesk", "Mindbody"], "role": "gym owner", "money": true, "severity": 3}}
+{"k": "e409b786eb277216da32fdbcb686b731", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "dd98fdc644a053c625df6b56c5dc84db", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "38e1560adc9e93e0cd3f486d59b65a85", "v": {"pain": true, "problem": "Lack of a reliable outage plan for when the booking platform (e.g., Mindbody) goes down, risking poor customer communication and operational disruption.", "workaround": "Using a printed roster of bookings, a shared note for staff to log check-ins manually, and pre-written texts to members sent within 15 minutes of an outage.", "tools": ["Mindbody"], "role": null, "money": false, "severity": 3}}
+{"k": "9b1cfd99017151f9515bc34a4c2ee20a", "v": {"pain": true, "problem": "Mindbody's widgets are glitchy, causing client booking errors and billing issues with prepaid passes.", "workaround": "Downgrading to the lowest tier and switching to Walla after the contract ends.", "tools": ["Mindbody", "Walla"], "role": "Business owner", "money": true, "severity": 4}}
+{"k": "4473bde9aa89d4e6542d0cda4807c625", "v": {"pain": true, "problem": "ClassPass integration does not properly sync with our booking system, requiring manual monitoring of emails to prevent double bookings.", "workaround": "Manually monitor emails to ensure no double booking occurs.", "tools": ["Vagaro", "ClassPass", "MindBody"], "role": "small wellness center owner", "money": false, "severity": 4}}
+{"k": "f3ea7d53267d8b98308fb97c09a520d1", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "f0cf188da2e896f758c6b9c6cc0f9c0b", "v": {"pain": true, "problem": "Manually exporting data from Mindbody to Brevo due to lack of integration", "workaround": "Manually exporting data", "tools": ["Brevo", "Mindbody"], "role": null, "money": false, "severity": 2}}
+{"k": "cd9c6d4b89ced08afe12fccf21300988", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "db2c352d1ddbfcb4f7d9cc8ecefc505f", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "82536e6ea571c77951cc84c7fc7da020", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "e89dcd6cba1ca88bcba911917fdd374d", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "c4e1f25dd89f11db3f901b9e0617281e", "v": {"pain": true, "problem": "Vendor-provided data export process is slow and requires constant follow-up, leading to manual migration efforts", "workaround": "Manually migrating data instead of paying for the vendor's service", "tools": [], "role": null, "money": true, "severity": 4}}
+{"k": "36eef99ba8440c2489f91c26d6070a13", "v": {"pain": true, "problem": "Reconciling multiple payment methods (Venmo, Cash App, cash) with gym software without manual entry", "workaround": "Manual entry of payments and membership status updates", "tools": ["recess.tv"], "role": "gym owner", "money": false, "severity": 3}}
+{"k": "c3d97123a11a414f3675d5192faa030f", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "c9174ec588230cfff86bbdc0693880c7", "v": {"pain": true, "problem": "Post-acquisition decline in support responsiveness, roadmap misalignment with independent operators' needs, and stalled feature development", "workaround": null, "tools": ["Glofox", "Mindbody"], "role": "Independent fitness business operator", "money": false, "severity": 3}}
+{"k": "0a6d0c26120196ba1be340ef63514286", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "2a765371bc8965822091bb1552d96caf", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "d647d5271901ff0d58300c64dd8ba106", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "8e05ea8311a56b02c933d17d880e9689", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "4cfdce73062ac78623d964f8ed6b722b", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "c1e27e48adde1242b111abfa19e27ce0", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "f0d7a5031581615dee74ae8591eec156", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "b04e8ba1af5a12a4ac67a0f9af91f128", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "8a39299cef9253ee0e2fa4037ba432d5", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "94ef1133a7c340a620d68615f69a5be3", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "70d8b72ec034a93d57e34b83bb0adff5", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "d0727de95cd35356b8660c714fe1efb0", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "a4b24202cbdc7bb82fa5e4172bb920ed", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "cde79658d7efc0db9fe2c8cc406a88bb", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "75ef43f8735714aed460d7eae3d496a8", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "5ad24ca8ef1d2529656106a42474232d", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "b7a6e1caa3f172866d51828f7172fcdb", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "e3853dcba4f9377b1ab48395cc77d4fc", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "3853040cd9e7eefed5622146e5da7222", "v": {"pain": true, "problem": "Unreliable integration between third-party systems (membership management, Ezypay, and mobile app) causes uncertainty about payment status and requires manual workarounds, leading to customer disputes and wasted time.", "workaround": "Relying on monthly Excel reports and email communication to resolve payment disputes.", "tools": ["Ezypay", "Polish startup membership management system", "German mobile app provider"], "role": "Franchise owner", "money": false, "severity": 4}}
+{"k": "b7212dd605673c6809ac68bfad1facdf", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "ccfcd4a23a057366ca72a3022747726a", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "5570cae39552f6f7e9c0d7e968a0d2d8", "v": {"pain": true, "problem": "Lack of mobile app for business owners forces reliance on browser which is not always in sync with desktop", "workaround": "Using browser to access Momence", "tools": ["Momence"], "role": null, "money": false, "severity": 2}}
+{"k": "94a2775511c08a1b2583fc605d789b57", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "a7cbc83bc0ca3ceba9f0a35674219670", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "1e50bb906986ceab0ff11c6055a24743", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "cee96468ec8056adb433d50c64c369e6", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "055f4858a69f0078664b4da78669a734", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "99cb0f54242f857b2227d70670d7c32f", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "00534580a4353ad174d001db83a36de1", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "05e142116609f7364127424806b2497e", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "4e649a1f943abfd7adfa3dc9b6886634", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "44c8fb13e3fa9b3ba65420cf822e1ab5", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "85cd591a1cc564772438ad8f1959743b", "v": {"pain": true, "problem": "Difficulty scheduling yoga classes as a full-time teacher leads to inefficient travel and fragmented schedules.", "workaround": "Having multiple classes at the same studio (doubles and triples) to reduce driving.", "tools": [], "role": "Yoga teacher", "money": false, "severity": 3}}
+{"k": "2c5f68898d68fc58d35e984b5b5b1894", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "d6c97a4c50bf6caf823ad1dfea7a660e", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "eed2e545e1b72f1971f06054e16ba630", "v": {"pain": true, "problem": "Instagram is no longer effective for generating in-person training leads, requiring significant time investment with little return.", "workaround": null, "tools": ["Instagram"], "role": "gym trainer", "money": false, "severity": 3}}
+{"k": "c9b475c6a372c22bb23b56a0c8509591", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "622902f3fbf947a6c9f89890070518f0", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "3c3c3b2d53afaa1d8d7be82b1c4c82f7", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "aa1958dde2702b23d04ed461ae55f663", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "10ceb1b7fdba43cd83653eb5500a536f", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "60173bbc48163ae01a21eb54311e8144", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "b0c65ffda62884c586df7882686a2094", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "52e24269ab73ebb61ab01c90dcd07c68", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "5a0b4766def0f91294e6f94f9c873e17", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "4662c4f852d5bc8871490a5b58243420", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "6c3295ae5db701a5df16cd492ac59fbe", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "68e856dd593c2a9e5becb30e61abbec9", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "a56227bfc49666f0bd62174a50ab97ed", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "40aa1bbcd0e74658f07a7ed9bac3711d", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "02b7deb1474b3bebf370a9da9f29d835", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "cc36afe813fb456d21cfecff9ef276cf", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "92a81b28bfa6d7e322097062b4bbbee8", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "4d6df6948ebdd86d337131f84b669ff4", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "9254c7c4b3e766f4a4cd2d107f0dcc0d", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "53d3cab9e8b73d136af33689daab2b31", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "674057ef5069ffe6a6d92a6497dd1c60", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "8258ed6f6a8f8ed8c89607d37af20c0f", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "542192b9342cebfbee174d4252cabf19", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "8ac0d1aedd3be3edc0dcc9763eae6005", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "9b0064b85f55f27d06920a87f08c2969", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "1b37e88fba741f2b889efa6df170de40", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "42812c0857b0eeee336ec03d0e438149", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "603adb8df75c938c2c9c502b54791936", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "ae768021183b846158981e922ffc81be", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "2ecfa27fdee23670cd45989c4f2821ea", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "9aee1b2d5b701d63f17598bb4120a7a7", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "f16dfdb2f51de18c1d9f41ca732d3c58", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "1b4f540acae4e307db226aa46dde84a4", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "a5ef382b28bef3097a47081b3ac042f5", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "89b312eb5c57731850402834b63f2f51", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "de863629cbac2b4eccf2e99caa739a9f", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "e279e81ef938ae9da235822002ffb460", "v": {"pain": true, "problem": "Vendor added an extra $50 to a trade for a sealed promo card, claiming profit margin on the traded card.", "workaround": null, "tools": [], "money": true, "severity": 2, "experience": "new"}}
+{"k": "1a2a03ecd9e51975d271497baab8d040", "v": {"pain": true, "problem": "Difficulty deciding whether to sell high-value cards to a shop or list them individually to avoid being underpaid for the rest of the collection", "workaround": "Considering selling high-value cards to a shop and bulk-selling the rest", "tools": ["tcgplayer"], "money": false, "severity": 2, "experience": "unknown"}}
+{"k": "ed15b84067c0d5804694bc7c82589c90", "v": {"pain": true, "problem": "Managing an increasingly complex spreadsheet with more cards and image links is becoming difficult", "workaround": null, "tools": ["Google Sheets"], "money": false, "severity": 3, "experience": "unknown"}}
+{"k": "dd4f663b381f83261615086113872f26", "v": {"pain": true, "problem": "Inaccurate card valuations and lack of reliable tracking tools for building a collection", "workaround": "Using a manual spreadsheet with PriceCharting data", "tools": ["PriceCharting"], "money": false, "severity": 2, "experience": "new"}}
+{"k": "60a432c967485fc1b89f1107857a59df", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "9577149429572374eeeeca3a7e0241a6", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "8b30800819dd26b705c66b500afa59be", "v": {"pain": true, "problem": "Inaccurate pricing on Collectr app leads to confusion and potential financial loss when selling cards on eBay", "workaround": "Checking recent eBay sold listings manually for accurate pricing", "tools": ["Collectr", "Price Charting"], "money": false, "severity": 2, "experience": "new"}}
+{"k": "7b90057bc58e5a520c5ae58522c98e23", "v": {"pain": true, "problem": "Concern about potential damage to high-grade cards when using top loader binders for storage", "workaround": "Considering using a case for higher-grade cards and reserving binders for lower grades", "tools": [], "money": false, "severity": 1, "experience": "new"}}
+{"k": "ee6c440496f9f56b56d8f39bcdbd9350", "v": {"pain": true, "problem": "Difficulty negotiating fair prices with vendors at card shows who price cards above market value.", "workaround": "Comparing prices on Collectr to check market value.", "tools": ["Collectr"], "money": false, "severity": 2, "experience": "new"}}
+{"k": "2610e4247e52ca6bc859c892ee7b79fa", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "afaa589714c170dad1337afe9b18f4ef", "v": {"pain": true, "problem": "Corrupted spreadsheet images make tracking collection progress difficult", "workaround": "Cross-referencing with TCGPlayer sales records and manually adjusting data", "tools": ["Excel", "TCGPlayer"], "money": false, "severity": 2, "experience": "unknown"}}
+{"k": "253eb5ef903591e1689a6c9d1a329053", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "20c5eb2efe03e3f5847bc58e72226e6b", "v": {"pain": true, "problem": "Received an order from TCGPlayer missing a card that was explicitly ordered", "workaround": "Contacted TCGPlayer to resolve the issue", "tools": [], "money": false, "severity": 2, "experience": "unknown"}}
+{"k": "d1a4fe58cf7732f8a53a5c30d70ff675", "v": {"pain": true, "problem": "Cards were shipped in a regular envelope with no padding or protection, increasing risk of damage during transit.", "workaround": null, "tools": [], "money": true, "severity": 2, "experience": "unknown"}}
+{"k": "78f82f6bf430ab88b5a82cea039d1fed", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "189c4da898af4c054254fe53250f8e0c", "v": {"pain": true, "problem": "Difficulty verifying card condition upon arrival, leading to dissatisfaction with purchase", "workaround": "Relying on seller descriptions without requesting additional photos", "tools": ["TCGPlayer"], "money": false, "severity": 2, "experience": "new"}}
+{"k": "9af9258469e09b0f23aad07af776d003", "v": {"pain": true, "problem": "Difficulty determining a fair price for a card due to conflicting price charts and grading issues affecting its value", "workaround": "Seeking advice from others to avoid being unfair or lowballed", "tools": ["Collectr", "TCG"], "money": false, "severity": 2, "experience": "unknown"}}
+{"k": "4fbd8b63f14b67ed2be37aaf76fd0d88", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "76312cee625c1eeeb3383ad21fc5b885", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "dc4fa3a729d246e9b7487a38b9bbd44f", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "5163af8f7f8591e75d86fc1b70fe7345", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "3fcc3fe126f27fc84c3a1ae2e6da4268", "v": {"pain": true, "problem": "Tracking accurate card prices is unreliable with current tools", "workaround": "Manually double-checking prices on eBay and TCGplayer", "tools": ["eBay", "TCGplayer"], "money": false, "severity": 2, "experience": "unknown"}}
+{"k": "7a8e2aca5a19684fb45799f7ba810548", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "b4e6d585e3f2c05874fe97acc3a0d4fe", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "2150a9dfa3bed79bdd224fb9d1808c38", "v": {"pain": true, "problem": "Orders from TCGplayer Direct frequently miss expensive cards due to unreliable shipping practices.", "workaround": "Expecting refunds, though the process is described as problematic.", "tools": ["TCGplayer"], "money": true, "severity": 3, "experience": "unknown"}}
+{"k": "f09c141c945a44afd6df15b6f4a18f51", "v": {"pain": true, "problem": "Unable to effectively report sellers on TCGplayer who list obviously fake cards at discounted prices", "workaround": null, "tools": ["TCGplayer"], "money": false, "severity": 2, "experience": "unknown"}}
+{"k": "85f48418c56a9cd275109b398e681d32", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "395a09e2f4b30ffb7d7c95e2b44d1b09", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "4736acee76d9af2a2c1fc9b125fc39d0", "v": {"pain": true, "problem": "Difficulty in getting cards graded without a local shop that previously handled grading", "workaround": "Previously sent cards through a local shop, now seeking alternative methods", "tools": ["PSA"], "money": false, "severity": 2, "experience": "unknown"}}
+{"k": "7595aad3400eea51dd50e7918858fef9", "v": {"pain": true, "problem": "Difficulty finding storage solutions that allow booster packs to be displayed and flipped through easily", "workaround": "Using fixed-page binders with integrated booster pack pages or loose 4-pocket pages in a ring binder", "tools": ["SealedDex"], "money": false, "severity": 2, "experience": "unknown"}}
+{"k": "976020ba115a23a76f75d3c5c9790ea9", "v": {"pain": true, "problem": "Determining the value of non-holo first edition common/uncommon cards and deciding whether grading is worth the cost", "workaround": "Using PriceCharting to assess values, though finding it inconsistent", "tools": ["PriceCharting", "eBay"], "money": true, "severity": 2, "experience": "unknown"}}
+{"k": "2dcd0f72bca7695a49e9feb7fd1877b7", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "e751d76895f5623aaa9c34637266ed12", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "7ce329835672d29abd9e6052d553cd71", "v": {"pain": true, "problem": "difficulty verifying if cards are the same when they appear identical but may have different prints", "workaround": "using a spreadsheet to track the collection", "tools": [], "money": false, "severity": 1, "experience": "unknown"}}
+{"k": "52251e9f5284079eb25ce0986bdfaa2d", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "58c51197ba7f916d5489bfcac2f1d8e2", "v": {"pain": true, "problem": "Need a free tool to export card collection as CSV for easier listing, but Collectr requires premium for this feature", "workaround": null, "tools": [], "money": false, "severity": 2, "experience": "unknown"}}
+{"k": "f3753d9da0b0eee48661427ed6e7903b", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "0e80a1d4dfadcf7431efd100c3e5f088", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "f3827c75f37ed81cf86a5b1ea2f7d3c4", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "443faa43e013ce9fc8ac14b04a603d1c", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "0d7aed7d588f828519d56afe10f5d8c6", "v": {"pain": true, "problem": "Difficulty accurately valuing and selling Pok\u00e9mon cards to avoid financial loss", "workaround": "Researching more to avoid mistakes", "tools": ["TCGPlayer"], "money": true, "severity": 3, "experience": "new"}}
+{"k": "076a5b7ef5de160e2408d9b1532f5485", "v": {"pain": true, "problem": "Difficulty accurately valuing and selling ungraded vintage Pok\u00e9mon cards without proper market data or grading.", "workaround": "Using Collectr for showcase and creating an itemized Excel spreadsheet to track card conditions and values.", "tools": ["Collectr", "Excel", "Facebook Marketplace", "eBay"], "money": false, "severity": 2, "experience": "unknown"}}
+{"k": "c1b457f528ccff7e637b94542afb7a8c", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "13f74816b712508a059e48fa12a60be1", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "8da3ae5b3184b4d979a0cdb73a87440c", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "01f25f09ab39568c5f40b27c7e54f5ae", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "3fda7e6b7aa19eeecd3e5621efbbc540", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "106cedd083fb10c2bd434a4e1b2eb5ab", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "08df08cfbdca15553a53501c0da0a336", "v": {"pain": true, "problem": "Inaccurate price tracking on Collectr app causes confusion about card values", "workaround": "Using the app despite knowing it's not always accurate", "tools": ["Collectr"], "money": false, "severity": 1, "experience": "unknown"}}
+{"k": "07714171fb6e14b90cbeaa8c468a5fca", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "528105db6b90924f40ffa4b2f2403f5c", "v": {"pain": true, "problem": "Inaccurate price tracking for singles and slabs in current apps", "workaround": "Using alternative apps like Shiny, Rare Candy, or Poke Data", "tools": ["Collectr", "TCG", "Shiny", "Rare Candy", "Poke Data"], "money": false, "severity": 1, "experience": "unknown"}}
+{"k": "8a124ed95f939bb9d90817c5cc10baf6", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "e587f4159611a52a436bf988b578ea83", "v": {"pain": true, "problem": "Confusion about grading standards and the cost of professional grading services like PSA", "workaround": "Avoiding grading due to uncertainty and high costs", "tools": ["TCGplayer", "PSA"], "money": true, "severity": 2, "experience": "unknown"}}
+{"k": "970765d936fcc80534b7b14b505e1752", "v": {"pain": true, "problem": "Difficulty authenticating Pok\u00e9mon cards due to prevalence of convincing fakes and need for detailed comparison with real copies", "workaround": "Comparing with graded copies, using PSA scans, checking holo patterns from trusted sources, and using a loupe for detailed inspection", "tools": ["PSA website", "eBay", "loupe/magnifying glass"], "money": false, "severity": 2, "experience": "unknown"}}
+{"k": "f399b4c05bf549d23cf47d2964b87bfe", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "eb3e257b32eb8a5c98af8a55d703518a", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "e48dc25784d6df34aa60c825c45c346e", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "fca7253777c5f3e7bfaf1cac0e33812a", "v": {"pain": true, "problem": "Inaccurate valuation by collection apps leads to unreliable tracking of card values", "workaround": "Using spreadsheets with data from TCG Player and eBay", "tools": ["TCG Player", "eBay"], "money": false, "severity": 1, "experience": "unknown"}}
+{"k": "2d5be6d17ebe47c7db95c3f5d7d53071", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "756d43fc2b5d855aae6ddbb6369f2563", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "78f8b444f320bd4e2a156e2567730a29", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "26531bd67d4a02c23d12fdb7e2fa282c", "v": {"pain": true, "problem": "PokeLenz lacks support for Japanese cards and sealed products, forcing the user to use multiple apps for tracking.", "workaround": "Using both Collectr and PokeLenz simultaneously to cover different needs.", "tools": ["Collectr", "PokeLenz"], "money": false, "severity": 2, "experience": "unknown"}}
+{"k": "3625faf79794439c227ec2621011a319", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "85036c61f297ac81dfc03579aef0dbeb", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "8720feefea877ffb58f959ea48ace542", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "e749ce98b81879996cf93d41d70ab48f", "v": {"pain": true, "problem": "Receiving errors in purchases such as missing cards, wrong cards, or incorrect condition from TCGPlayer sellers.", "workaround": "Messaging the seller politely and respectfully to resolve the issue.", "tools": [], "money": false, "severity": 1, "experience": "unknown"}}
+{"k": "f98da91d0de39d1a4de6f16075ba1ef3", "v": {"pain": true, "problem": "Inaccurate long-term price tracking by platforms like TCGplayer/PriceCharts makes it hard to assess historical card values (e.g., 151 ETB in 2023).", "workaround": null, "tools": ["TCGplayer", "PriceCharts"], "money": true, "severity": 2, "experience": "unknown"}}
+{"k": "23f95c0c00a1b2ca186f19a1437f720a", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "2e534dda620385f8de7b7cf5c98f44fe", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "a629f226ae22a89aa4fbbc5fee988bd5", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}
+{"k": "ea34fab31383000eec6717b14d47120e", "v": {"pain": true, "problem": "Difficulty in verifying card values and ensuring proper transaction practices when selling cards for cash", "workaround": "Creating an updated spreadsheet with values at various percentages and planning to visit another card shop", "tools": ["TCGPlayer"], "money": false, "severity": 2, "experience": "unknown"}}
+{"k": "3f02aab3d1ace21430be6f6b5e25b7fa", "v": {"pain": true, "problem": "Card tracking apps like Collectr are inaccurate for determining actual card prices, requiring users to check external sites like TCG or eBay for last sold prices.", "workaround": "Users manually check TCG or eBay's last sold data to track actual prices when buying or selling.", "tools": ["TCG", "eBay"], "money": false, "severity": 2, "experience": "unknown"}}
+{"k": "6274918a66548cdac1e8768845f0e45d", "v": {"pain": false, "problem": null, "workaround": null, "tools": [], "role": null, "money": false, "severity": null}}

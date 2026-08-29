@@ -13,6 +13,7 @@ from dataclasses import dataclass, field
 import praw
 import prawcore
 from pathlib import Path
+from collections import Counter, defaultdict
 
 # Complaint grammar. These are the shapes of *unprompted* pain, not topics.
 PAIN_PHRASES = [
@@ -273,3 +274,67 @@ def save_json(records, path):
 def load_json(path):
     with open(path, encoding="utf-8") as f:
         return [json.loads(line) for line in f if line.strip()]
+
+
+def discover_subreddits(reddit, seed_terms, limit_per_term=100, time_filter="all", verbose=True):
+    """
+    Find which subreddits a vertical actually lives in.
+    Searches all of Reddit for vertical-locked terms (competitor product names work best.
+    """
+    hits = Counter()
+    terms_seen = defaultdict(set)
+    examples = defaultdict(list)
+
+    for term in seed_terms:
+        try:
+            results = reddit.subreddit("all").search(
+                term, sort="relevance", time_filter=time_filter, limit=limit_per_term
+            )
+            n = 0
+            for post in results:
+                sub = str(post.subreddit)
+                hits[sub] += 1
+                terms_seen[sub].add(term)
+                if len(examples[sub]) < 2:
+                    examples[sub].append(post.title[:70])
+                n += 1
+            if verbose:
+                print(f"  '{term}' -> {n} results")
+        except prawcore.exceptions.TooManyRequests:
+            print(f"  ! rate limited; sleeping 60s")
+        except Exception as e:
+            print(f"  ! '{term}' failed: {str(e)}")
+
+    return [{
+        "subreddit": s,
+        "hits": n,
+        "distinct_terms": len(terms_seen[s]),
+        "terms": sorted(terms_seen[s]),
+        "examples": examples[s],
+    } for s, n in hits.most_common()]
+
+
+def fetch_listing(reddit, subreddit, sort="top", time_filter="year", limit=500):
+    """
+    Pull a subreddit's listing directly, no query.
+    
+    For small subs, searching is wasteful - the entire sub is smaller than one
+    search's result cap. Just take everything and filter downstream.
+    """
+    result = []
+    try:
+        sub = reddit.subreddit(subreddit)
+        if sort == "new":
+            gen = sub.new(limit=limit)
+        elif sort == "hot":
+            gen = sub.hot(limit=limit)
+        else:
+            gen = sub.top(time_filter=time_filter, limit=limit)
+        for post in gen:
+            result.append(normalize_record(post, "submission"))
+    except prawcore.exceptions.TooManyRequests:
+        print(f"  ! rate limited; sleeping 60s")
+    except Exception as e:
+        print(f"  ! r/{subreddit} listing failed: {str(e)}")
+    return result
+    

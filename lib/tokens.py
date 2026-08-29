@@ -5,8 +5,6 @@ The raw corpus size is a vanity metric. What you actually pay for is:
     (surviving items after prefilter) x (truncated body) + (prompt overhead per batch)
 """
 
-import json
-
 try:
     import tiktoken
     _ENC = tiktoken.get_encoding("cl100k_base")
